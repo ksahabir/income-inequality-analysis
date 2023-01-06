@@ -1,13 +1,13 @@
 # income-inequality-analysis
 
-#**Abstract**
+# **Abstract**
 
 
 Income inequality is an issue that affects every facet of a country’s population. A picture of the inequality in a country’s income level can help us understand the workings of a country’s society and the challenges they face in areas of commerce, trade, governance, social issues, etc. We aimed to look at the distribution of wealth in the US, with data obtained from the US Census Bureau, and how it has changed over time by comparing the Gini coefficient for each set of data. The Gini coefficient is a measure of statistical spread that, in our case, measures the inequality in a set of data. Thus, our aim is to observe how income inequality in the US has evolved over time.
 
 
 
-#**Introduction**
+# **Introduction**
  
  
 The inequality of income in a country is an important tool to understand the health of that country’s economy as well as its population. High levels of 
@@ -22,7 +22,7 @@ political discontent, as well as economic metrics such as GDP, unemployment, etc
 
 
 
-#**Description of data**
+# **Description of data**
 
 	
 The Lorenz curve is obtained by plotting each point where the quintiles are on the x axis and the mean incomes are on the y axis. The Gini coefficient is 
@@ -39,7 +39,7 @@ Means - Numerical, Annual mean salary of the quintile
 
 
 
-#**Mathematical/Problem Formulation**
+# **Mathematical/Problem Formulation**
 
 
 We will be comparing the distribution of wealth against a hypothetical uniform distribution of wealth by  graphing the mean income per quintile in the US 
@@ -51,7 +51,7 @@ as the second equation on the page.
 
 
 
-#**Discussion**
+# **Discussion**
  
 	
 Based on the table of Gini coefficients, as well as the graphs of the Lorenz curve from 2010 to 2021, we see that there is widespread inequality amongst 
@@ -81,7 +81,7 @@ formulating policy to specifically reduce income inequality amongst demographics
 
 
 
-#**Conclusions**
+# **Conclusions**
 
 
 In conclusion, we have found verifiable evidence of an increase in income inequality in the United States. Our conclusion is based on analysis of the 
@@ -93,7 +93,7 @@ avoid a situation where most of the population’s financial health is in jeopar
 
 
 
-#**References/Bibliography**
+# **References/Bibliography**
 
 
 https://www.nber.org/papers/w24900#:~:text=In%20response%20to%20rising%20inequality,populist%20promising%20to%20end%20globalization.&text=Countries%20with%20more%20inequality%2C%20higher,model%20and%20in%20the%20data.
